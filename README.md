@@ -93,7 +93,7 @@ A aplicação não tem backend e tem só uma dependência de runtime (`vue`).
 
 ```bash
 # Clone o repositório
-git clone https://github.com/<seu-usuario>/simulador-comprar-ou-alugar.git
+git clone https://github.com/imerlim/simulador-comprar-ou-alugar.git
 cd simulador-comprar-ou-alugar
 
 # Instale as dependências
